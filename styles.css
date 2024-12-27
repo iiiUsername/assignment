@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: #393d3f;
+
+}
+
+p{
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #393d3f;
+}
+
+h2 {
+    text-align: center;
+    color: #393d3f;
+}
+
+#button {
+    text-align: center;     
+}
+
+.btn-custom {
+    background-color: #546a7b !important;
+    color: white !important;
+    
+}
+
+.btn-custom:hover {
+    background-color: #8b99a5 !important;
+}
+
+.bg-custom {
+    background-color: #00000000;
+}
+
+footer {
+    background-color: #393d3f !important;
+    color: white;
+}
